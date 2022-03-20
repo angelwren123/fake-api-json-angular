@@ -156,5 +156,17 @@
       "user": "quoc",
       "pass": "123"
     }
+  ],
+  "users":[
+    {
+      "id":1,
+      "user":"user1",
+      "pass":"user1"
+    },
+    {
+      "id":2,
+      "user":"user2",
+      "pass":"user2"
+    }
   ]
 }
