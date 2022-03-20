@@ -1,7 +1,7 @@
 const items = require("./data/items");
 
 
-module.exports = [{items}];
+module.exports = [items];
 
 
 
