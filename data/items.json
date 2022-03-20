@@ -160,13 +160,13 @@
   "users":[
     {
       "id":1,
-      "user":"user1",
-      "pass":"user1"
+      "user":"user",
+      "pass":"123"
     },
     {
       "id":2,
       "user":"user2",
-      "pass":"user2"
+      "pass":"123"
     }
   ]
 }
